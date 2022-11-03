@@ -4,7 +4,6 @@
 </div>
 
 <h2 align="center">Hi✌️, I'm Pablo Martínez</h2>
-<h3 align="center">dev in progress 🧑🏻‍💻</h3>
 <div align="center">
 <p>📫 How to reach me: <a href = "mailto: pablo.ed.martinez@gmail.com">pablo.ed.martinez@gmail.com</a></p>
 </div>
