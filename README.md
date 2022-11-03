@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="11903011.png" width="60%"/>
+  <img src="11903011.png" width="50%"/>
 </div>
 
 <h2 align="center">Hi✌️, I'm Pablo Martínez</h2>
