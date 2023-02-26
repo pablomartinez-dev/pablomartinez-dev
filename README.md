@@ -2,16 +2,16 @@
   <img src="Banner01.png" width="60%" />
 </div>
 
-<h2 align="center">Hi✌️, I'm Pablo Martínez</h2>
+<h2 align="center">Hola✌️, soy Pablo Martínez!</h2>
 <div align="center">
   <p>
-    📫 How to reach me:
+    📫 Cómo contactarme:
     <a href="mailto: pablo.ed.martinez@gmail.com"
       >pablo.ed.martinez@gmail.com</a
     >
   </p>
 </div>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Lenguajes y herramientas:</h3>
 
 <div align="center" style="background-color: #33475b">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
