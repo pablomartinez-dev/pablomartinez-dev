@@ -109,12 +109,4 @@
   </a>
 </div>
 
-<p>
-  <div align="center">
-      <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloemv&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=es&layout=compact"
-      alt="pabloemv"
-    />
-  </div>
-</p>
 
