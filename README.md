@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="Banner01.png" width="60%" />
-</div>
 
 <h2 align="center">Hola✌️, soy Pablo Martínez!</h2>
 <h3 align="center">Desarrollador Full Stack</h3>
