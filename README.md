@@ -1,6 +1,6 @@
 
 <h2 align="center">Hola✌️, soy Pablo Martínez!</h2>
-<h3 align="center">Desarrollador Frontend</h3>
+<h3 align="center">Desarrollador Full Stack</h3>
 <h4 align="center">Mi <a href="https://pabloemv.github.io/portfolio/" target="_blank">Portafolio</a></h4>
 <div align="center">
   <p>
