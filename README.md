@@ -1,7 +1,7 @@
 
-## 💫 Hola ✌️, Soy Pablo Martínez! Desarrollador FrontEnd:
+## Hola ✌️, Soy Pablo Martínez! Desarrollador FrontEnd:
 
-### [Revisa mi portafolio](https://portafolio-git-main-pabloemv.vercel.app/ "Pablo Martínez Portafolio") 
+### [Revisa mi portafolio](https://portafolio-git-main-pabloemv.vercel.app/ "Pablo Martínez Portafolio"){:target="_blank"}
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pablo.mart_)
