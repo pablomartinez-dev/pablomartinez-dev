@@ -4,7 +4,6 @@
 ### [Revisa mi portafolio](https://portafolio-git-main-pabloemv.vercel.app/)
 
 ### 🌐 Social:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pablo.mart_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-martinez-v00/) 
 
 ### 💻 Stack:
