@@ -1,10 +1,8 @@
 
 ## Hola ✌️, Soy Pablo Martínez! Desarrollador FrontEnd:
 
-### [Revisa mi portafolio](https://portafolio-git-main-pabloemv.vercel.app/)
-
 ### 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-martinez-v00/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablomartinez-dev/) 
 
 ### 💻 Stack:
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
